@@ -1,5 +1,5 @@
 <h1 align="center"> 🧑‍💻</h1>
-<h3 align="left">"Hey there! 👋🏻 I'm a senior undergraduate majoring in Computer Science, with a deep love for programming ⌨️. From crafting elegant code to building practical solutions, I thrive on the challenges of software development. With a focus on hands-on learning and a drive to master new technologies, I'm eager to make my mark in the world of programming. Let's code something incredible together! 💻"</h3>
+<h3 align="left">"Hey there! 👋🏻 I'm a senior undergraduate majoring in Computer Science, with a deep love for programming⌨️. From crafting elegant code to building practical solutions, I thrive on the challenges of software development. With a focus on hands-on learning and a drive to master new technologies, I'm eager to make my mark in the world of programming. Let's code something incredible together! 💻"</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
