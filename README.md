@@ -3,7 +3,9 @@
 ## 🧑‍💻 About me
 <h3 align="left">"Hey there!👋🏻"</h3>
 
-<p align="left">I'm a senior undergraduate majoring in Computer Science, with a deep love for programming. 💻 Lately, I have been focusing on delving deep into Java's best practices, design patterns, and the latest advancements in the ecosystem, from backend development with Spring Boot to Android app development. ⌨️ I remain committed to expanding my skill set and am eager to embrace new technologies that challenge me and propel my growth as a developer!</p>
+<p align="left">I'm a senior undergraduate majoring in Computer Science, with a deep love for programming 💻.</p> 
+
+<p align="left">Lately, I have been focusing on delving deep into Java's best practices, design patterns, and the latest advancements in the ecosystem, from backend development with Spring Boot to Android app development 📱. I remain committed to expanding my skill set and am eager to embrace new technologies that challenge me and propel my growth as a developer!</p>
 
 
 
