@@ -8,7 +8,7 @@
 <br />
 
 <div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisEvaggelou&layout=compact&hide_title=1&card_width=300&theme=chartreuse-dark" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisEvaggelou&layout=compact&hide_title=1&card_width=300&theme=github_dark_dimmed" alt="Top language used in my repos" />
   <br />
   <small></small>
   <br />
