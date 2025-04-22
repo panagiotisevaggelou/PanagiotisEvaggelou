@@ -1,8 +1,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/PanagiotisEvaggelou)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/PanagiotisEvaggelou/badge-it)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/PanagiotisEvaggelou)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/PanagiotisEvaggelou/PanagiotisEvaggelou)](https://badges.pufler.dev)
 
 ## 🧑‍💻 About me
-<h3 align="left">"Hey there!👋🏻"</h3>
-
 <p align="left">Versatile and team-oriented software engineer with a strong foundation in back-end development, and a keen interest in
 telecommunications and multimedia technologies 💻.</p>
 
